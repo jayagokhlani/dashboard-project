@@ -1,0 +1,22 @@
+src/
+├── components/
+│   ├── Layout/
+│   │   ├── Header.js
+│   │   ├── Sidebar.js
+│   │   └── Footer.js
+│   ├── Tables/
+│   ├── Charts/
+│   ├── Calendar/
+│   └── Kanban/
+├── pages/
+│   ├── Dashboard.js
+│   ├── TablesPage.js
+│   ├── ChartsPage.js
+│   ├── CalendarPage.js
+│   └── KanbanPage.js
+├── theme/
+│   ├── lightTheme.js
+│   └── darkTheme.js
+├── App.js
+├── index.js
+└── App.css
